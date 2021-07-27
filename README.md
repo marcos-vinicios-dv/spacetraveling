@@ -30,4 +30,4 @@
 - <a href="https://utteranc.es/?installation_id=18530821&setup_action=install" >utterances</a> (comentários);
 
 ## Deploy da aplicação(Vercel)
-<a href="https://spacetraveling-zeta.vercel.app/" >spacetraveling-zeta.vercel.app</a>;
+<a href="https://spacetraveling-zeta.vercel.app/" >spacetraveling-zeta.vercel.app</a>
