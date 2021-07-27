@@ -7,6 +7,10 @@
     & + a {
       margin-top: 3rem;
     }
+
+    &:hover strong {
+      color: var(--pink-500);
+    }
   }
 
   button {
@@ -24,6 +28,7 @@
     font-size: 1.75rem;
     font-weight: bold;
     color: var(--white);
+    transition: color 0.2s;
   }
 
   p {
